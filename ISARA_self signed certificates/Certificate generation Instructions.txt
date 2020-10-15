@@ -1,0 +1,3 @@
+To generate certificates:
+
+run the cert_gen.bat

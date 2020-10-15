@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number:
+            56:48:61:35:49
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CA, ST=ON, L=Etobicoke, O=ISARA Testing Inc., OU=Validation, CN=Test/emailAddress=validation@isaratesting.org
+        Validity
+            Not Before: Oct 14 22:31:52 2020 GMT
+            Not After : Oct 24 22:31:52 2021 GMT
+        Subject: C=CA, ST=ON, O=ISARA Testing Inc., OU=Validation, CN=Test2/emailAddress=validation@isaratesting.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ce:60:a7:7c:a2:9b:6a:59:de:d5:16:1f:3b:e1:
+                    78:70:44:b1:51:09:7c:b3:14:00:94:33:f0:7c:da:
+                    69:57:07:50:7e:2e:b2:45:0e:57:c9:6d:5d:2e:66:
+                    9e:53:4d:4d:65:00:f6:4f:ae:ce:1e:86:d4:01:c1:
+                    ca:11:91:8b:6d:c2:45:d5:ab:82:ef:51:0e:d4:20:
+                    59:a8:86:9a:a7:62:ad:10:ca:e9:34:bc:97:2b:11:
+                    00:29:7e:ca:ad:ce:f9:69:e7:04:fa:1f:48:89:fd:
+                    6f:fc:64:cc:ed:de:d2:a3:94:68:f3:a0:5c:4a:77:
+                    86:58:6f:81:27:15:9e:3e:9b
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha256WithRSAEncryption
+         60:42:c3:57:54:d4:4b:cb:bd:92:84:9f:56:19:18:fd:23:74:
+         4e:ca:a0:8b:c5:21:71:ef:f7:b2:27:d7:60:f7:0e:9e:bc:4f:
+         d4:9a:f3:96:a0:28:09:ed:f0:08:bb:a6:fb:07:ef:7e:3a:0f:
+         4a:e3:d9:46:2b:eb:49:cc:78:69:2c:c8:3a:c6:25:1f:38:81:
+         91:8c:9d:94:62:b0:30:e2:a1:a2:b9:10:67:d1:46:2f:17:e3:
+         e2:ea:6b:e8:5c:5f:48:55:01:dc:bb:b7:2f:47:8a:02:be:f9:
+         8d:49:ae:7c:6d:e2:80:40:3b:92:96:a3:f2:17:f1:1a:7e:94:
+         e7:83
+-----BEGIN CERTIFICATE-----
+MIICmDCCAgECBVZIYTVJMA0GCSqGSIb3DQEBCwUAMIGbMQswCQYDVQQGEwJDQTEL
+MAkGA1UECAwCT04xEjAQBgNVBAcMCUV0b2JpY29rZTEbMBkGA1UECgwSSVNBUkEg
+VGVzdGluZyBJbmMuMRMwEQYDVQQLDApWYWxpZGF0aW9uMQ0wCwYDVQQDDARUZXN0
+MSowKAYJKoZIhvcNAQkBFht2YWxpZGF0aW9uQGlzYXJhdGVzdGluZy5vcmcwHhcN
+MjAxMDE0MjIzMTUyWhcNMjExMDI0MjIzMTUyWjCBiDELMAkGA1UEBhMCQ0ExCzAJ
+BgNVBAgMAk9OMRswGQYDVQQKDBJJU0FSQSBUZXN0aW5nIEluYy4xEzARBgNVBAsM
+ClZhbGlkYXRpb24xDjAMBgNVBAMMBVRlc3QyMSowKAYJKoZIhvcNAQkBFht2YWxp
+ZGF0aW9uQGlzYXJhdGVzdGluZy5vcmcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJ
+AoGBAM5gp3yim2pZ3tUWHzvheHBEsVEJfLMUAJQz8HzaaVcHUH4uskUOV8ltXS5m
+nlNNTWUA9k+uzh6G1AHByhGRi23CRdWrgu9RDtQgWaiGmqdirRDK6TS8lysRACl+
+yq3O+WnnBPofSIn9b/xkzO3e0qOUaPOgXEp3hlhvgScVnj6bAgMBAAEwDQYJKoZI
+hvcNAQELBQADgYEAYELDV1TUS8u9koSfVhkY/SN0Tsqgi8Uhce/3sifXYPcOnrxP
+1JrzlqAoCe3wCLum+wfvfjoPSuPZRivrScx4aSzIOsYlHziBkYydlGKwMOKhorkQ
+Z9FGLxfj4upr6FxfSFUB3Lu3L0eKAr75jUmufG3igEA7kpaj8hfxGn6U54M=
+-----END CERTIFICATE-----
